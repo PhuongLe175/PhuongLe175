@@ -1,5 +1,9 @@
 ## Hi 👋, I'm Phuong Le
 
+## A Minimalist Software
+
+- 💬 Ask me about **dotnet, simple code, mental health**
+- How to reach me: **phuongthanhle1705@gmail.com**
 <!--
 **PhuongLe175/PhuongLe175** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
